@@ -1,0 +1,18 @@
+site_name: Projecte col·laboratiu DAW Semipresencial 2025-2026
+theme:
+  name: material
+  language: ca
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Canvia a mode fosc
+  font:
+    text: "Open Sans"
+  logo: images/logo.png
+  favicon: images/favicon.png
