@@ -18,6 +18,7 @@ Des del terminal o PowerShell:
 ```bash
 git clone https://github.com/<usuari>/<nom-del-repo>.git
 cd <nom-del-repo>
+```
 
 ### Instal·lar Python
 Si no apareix cap versió, descarrega’l des de https://www.python.org/downloads/￼
