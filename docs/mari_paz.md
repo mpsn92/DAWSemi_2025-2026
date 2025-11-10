@@ -3,6 +3,7 @@
 ## Mari Paz Sanz Nadal
 
 **Correu**: maripazsanznadal@gmail.com
+**Correu**: marsannad2@alu.edu.gva.es
 
 **Mòdul**: Desplegament d'Apliacions Web
 
