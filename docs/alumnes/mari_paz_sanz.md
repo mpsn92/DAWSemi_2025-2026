@@ -7,8 +7,8 @@ M’interessa especialment el desenvolupament **{{frontend/backend/fullstack}}**
 ---
 
 ## 🚀 Projecte personal
-**Nom del projecte:** *Marketplace* *cultural* amb el nom de *Mosaik*  
-**Descripció:**  
+**Nom del projecte:** *Marketplace* *cultural* amb el nom de *Mosaik*
+**Descripció:**
 És un marketplace cultural que connecta professionals, artistes i amants de la cultura.
 El nostre objectiu és donar visibilitat a la cultura local i oferir experiències úniques per a tots els públics: des de tallers artesanals fins a rutes guiades i productes culturals exclusius.
 
@@ -18,11 +18,10 @@ Exemple:
 ---
 
 ## 🧰 Tecnologies i eines que utilitze
-- HTML, CSS, JavaScript  
-- Python / Flask  
-- Git i GitHub  
-- MkDocs  
-- Docker *(opcional)*
+- HTML, CSS, JavaScript
+- Python / Flask
+- Git i GitHub
+- MkDocs
 
 ---
 
@@ -41,7 +40,8 @@ Exemple:
 ---
 
 ## 💬 Frase o curiositat
-> "Poc a poc tot va eixint avant"  
+> "Poc a poc tot va eixint avant"
+> "Treballar amb música es treballar amb alegria"
 
 
 ---
