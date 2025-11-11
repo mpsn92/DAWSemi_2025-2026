@@ -2,18 +2,17 @@
 
 ## 💻 Presentació
 Sóc estudiant del cicle **Desenvolupament d’Aplicacions Web** a l’IES l’Estació d’Ontinyent.  
-M’interessa especialment el desenvolupament **frontend/backend** i les tecnologies relacionades amb **HTML, CSS, JavaScript, Python, java, altres llenguatges.**.
+M’interessa especialment el desenvolupament **frontend/backend** i les tecnologies relacionades amb **HTML, CSS, JavaScript, Python, java, altres llenguatges**.
 
 ---
 
 ## 🚀 Projecte personal
 **Nom del projecte:** *Marketplace* *cultural* amb el nom de *Mosaik*
+
+
 **Descripció:**
 És un marketplace cultural que connecta professionals, artistes i amants de la cultura.
 El nostre objectiu és donar visibilitat a la cultura local i oferir experiències úniques per a tots els públics: des de tallers artesanals fins a rutes guiades i productes culturals exclusius.
-
-Exemple:
-> Una aplicació web per gestionar tasques utilitzant Flask i SQLite, amb interfície responsive i autenticació bàsica.
 
 ---
 
