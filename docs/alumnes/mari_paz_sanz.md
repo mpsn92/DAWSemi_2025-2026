@@ -2,7 +2,7 @@
 
 ## 💻 Presentació
 Sóc estudiant del cicle **Desenvolupament d’Aplicacions Web** a l’IES l’Estació d’Ontinyent.  
-M’interessa especialment el desenvolupament **{{frontend/backend/fullstack}}** i les tecnologies relacionades amb **{{HTML, CSS, JavaScript, Python, etc.}}**.
+M’interessa especialment el desenvolupament **frontend/backend** i les tecnologies relacionades amb **HTML, CSS, JavaScript, Python, java**.
 
 ---
 
